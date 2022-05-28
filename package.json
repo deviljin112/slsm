@@ -1,9 +1,13 @@
 {
   "name": "@deviljin112/slsm",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI application that manages SLS dependency installation and deployment",
   "author": "Deviljin112",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deviljin112/slsm"
+  },
   "homepage": "https://hswic.dev/",
   "license": "WTFPL",
   "main": "bin/index.js",
@@ -17,7 +21,9 @@
   "keywords": [
     "cli",
     "sls",
-    "slsm"
+    "slsm",
+    "serverless",
+    "nodejs"
   ],
   "dependencies": {
     "ansi": "^0.3.1",
