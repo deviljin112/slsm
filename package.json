@@ -5,7 +5,7 @@
   "description": "CLI application that manages SLS dependency installation and deployment",
   "author": "Deviljin112",
   "homepage": "https://hswic.dev/",
-  "license": "ISC",
+  "license": "WTFPL",
   "main": "bin/index.js",
   "bin": {
     "@deviljin112/slsm": "bin/index.js",

@@ -61,3 +61,7 @@ If you have more than one service with the same name or a root folder named the 
 This isn't the most optimised code, it's supposed to save me time and I didn't spend too much time overthinking every line. It does what its supposed to and that's good enough for me. If you want to improve it PRs are always welcome.
 \
 Only tested on Ubuntu 22.04 with Node 14 + 16.
+
+## License
+
+[WTFPL](https://en.wikipedia.org/wiki/WTFPL)
